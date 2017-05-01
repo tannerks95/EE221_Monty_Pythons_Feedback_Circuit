@@ -1,0 +1,30 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Circuits Project (1)
+*Date=00:09:33
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;32.4211;-8.79477;0;Bottom;IMG2
+2;;;43.6109;-38.1924;0;Bottom;Hole2
+3;;DIP (Dual Inline) [THT];34.7207;-26.7624;0;Bottom;IC1
+4;;;13.1309;-35.6524;0;Bottom;Hole3
+5;3V;;37.2607;-38.1924;90;Bottom;VCC1
+6;1µF;100 mil [THT, electrolytic];15.6707;-29.3024;90;Bottom;C3
+7;;4Ucon 08780 [THT];15.6706;-15.8316;-90;Bottom;TRS1
+8;;;41.0709;-7.71238;0;Bottom;Hole1
+9;1µF;100 mil [THT, electrolytic];5.51067;-34.3824;-90;Bottom;C1
+10;;;43.8068;-26.8867;180;Bottom;SPKR1
+11;1µF;100 mil [THT, electrolytic];27.1007;-38.1924;0;Bottom;C2
+12;;;51.2446;-5.43819;0;Bottom;IMG1
+13;220;THT;10.5907;-30.5724;-90;Bottom;R1
+14;;;5.51086;-12.7924;0;Bottom;Hole4
+15;;;24.5607;-28.0324;0;Bottom;Jumper1
