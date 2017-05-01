@@ -1,0 +1,31 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=-75,0,1270,800,1,286,15>
+  <Grid=10,10,0>
+  <DataSet=5th Stage Chev.dat>
+  <DataDisplay=5th Stage Chev.sch>
+  <OpenDisplay=1>
+  <Script=5th Stage Chev.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 10 530 893 510 3 #c0c0c0 1 10 0 50 1 500 1 -400 50 50 1 -1 0.2 1 315 0 225 "" "" "">
+	<"K" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Tab 930 310 300 200 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 501 315 0 225 "" "" "">
+	<"K" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+</Paintings>
